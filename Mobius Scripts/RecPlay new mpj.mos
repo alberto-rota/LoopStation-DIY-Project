@@ -1,0 +1,19 @@
+!foscuslock
+
+message Mode: RECORD
+mode = Record
+
+if mode == reset
+	# set input 127
+	for *
+		set input 127
+		Record
+	next
+
+else
+	for *
+		set input 127
+		Overdub
+	next
+
+endif

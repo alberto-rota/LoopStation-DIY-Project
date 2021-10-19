@@ -1,0 +1,6 @@
+!focuslock
+
+for *
+	muteOff
+	muteOn
+next

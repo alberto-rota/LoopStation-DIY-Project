@@ -1,0 +1,12 @@
+message Mode: PLAY
+
+for *
+	if mode == record
+		Play
+		message Mode: PLAY
+	elseif mode == overdub
+		Play
+		message Mode: PLAY
+	endif
+next
+

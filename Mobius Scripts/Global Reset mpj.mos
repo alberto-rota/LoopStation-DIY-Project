@@ -1,0 +1,4 @@
+GlobalReset
+MidiOut noteon 2 10 127
+MidiOut noteoff 2 10 127
+Call "Into Record Mode mpj"

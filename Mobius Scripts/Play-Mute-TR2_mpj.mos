@@ -1,0 +1,30 @@
+!focuslock
+
+Track2
+
+Variable activeTrack trackNumber
+
+
+if InPause == true
+	for *
+		if trackNumber != activeTrack
+			set muteMode continue
+			MuteOn
+			Restart
+		else
+			set muteMode continue
+			MuteOff
+			Restart
+		endif
+	next
+else
+	if trackNumber == activeTrack
+		set muteMode continue
+		if mode == play
+			MuteOn
+		elseif mode == mute
+			MuteOff
+		endif
+	endif
+endif
+
