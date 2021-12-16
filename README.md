@@ -31,4 +31,4 @@ The pedals are 3D printed in PLA
 
 ![wiring](https://github.com/alberto-rota/LoopStation-DIY-Project/blob/main/connection_schematics.png)
 ## A picture of the finished board
-![finished](https:)
+![finished](https://github.com/alberto-rota/LoopStation-DIY-Project/blob/main/finished_pedalboard.jpg)
