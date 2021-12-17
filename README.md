@@ -2,7 +2,7 @@
 ***
 An ATMEGA328-based MIDI pedalboard for looping the sound from a guitar; the board is set up to work with the Mobius Looper VST plugin. The pedalboard allows 2 modes for looping on 4 tracks independently, with overdubbing, resetting, muting and multiplying functions: modes and selected tracks are displayed with different LED colors and from an LCD screen..
 
-See Ed Sheeran using the Chewie Monsta ![here](https://www.youtube.com/watch?v=w4HVrvMTaNI), the pedalboard that inspired this project!
+See ![here](https://www.youtube.com/watch?v=Lx_jHX21EUc) Ed Sheeran using the Chewie Monsta, the pedalboard that inspired this project!
 
 ![pedalboard](https://github.com/alberto-rota/LoopStation-DIY-Project/blob/main/pedalboard_photo.png)
 
